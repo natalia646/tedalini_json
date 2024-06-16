@@ -1,0 +1,197 @@
+[
+    {
+        "lang": "en",
+        "data": [
+            {
+                "id": 0,
+                "img": "https://i.ibb.co/YdVwK3X/case0.webp",
+                "title": "Optimization of the Fintech Project Budget through Project Audit and Compliance",
+                "client": "Fintech startup developing the concept of a neobank",
+                "task": "The project's investor approached us with a request for a project audit to optimize expenses and reduce the budget.",
+                "decision": "We conducted a comprehensive audit of the project and identified potential risks and unnecessary expenses. One of the key aspects we identified was the hiring of bank management for the full period of obtaining the license, despite the fact that there was no actual workload at the start of the project. Through the joint efforts of our project manager and Compliance specialist, a decision was made to review this aspect.",
+                "result": "We proposed optimizing the process of hiring bank management by signing a letter of intent for employment without salary payments for the period when banking activities could not begin. This allowed for significant budget savings by avoiding unnecessary salary expenses at the initial stage.",
+                "summary": "Thanks to our intervention and process optimization, the client saved several hundred thousand euros from the project budget. Our recommendations allowed the project to effectively allocate resources and focus on key tasks without unnecessary expenses."
+            },
+            {
+                "id": 1,
+                "img": "https://i.ibb.co/dDSWsW5/case1.webp",
+                "title": "Development and Optimization of a Cryptocurrency Platform through Project Audit and Strategic Planning",
+                "client": "Investor in a cryptocurrency project interested in understanding the reasons for low profitability and the possibility of closing the project.",
+                "task": "Our team was tasked with analyzing the project of creating a cryptocurrency wallet and exchange to determine the reasons for unsatisfactory profitability.",
+                "decision": "After conducting a project audit, we identified key issues, including the project's team having an unclear understanding of the proposed product in the market, uncertainty about the target audience, and unclear competitive advantages. Our product owners and marketers took on the task of revising the product strategy and its marketing.",
+                "result": "After intensive work on strategic planning and market analysis, we developed a clear product description, identified unique competitive advantages, and found the most attractive target audiences. We also prioritized tasks in the product backlog and adapted the go-to-market strategy.",
+                "summary": "Thanks to our intervention and optimization of the project strategy, the project's profitability significantly increased, leading to the beginning of investment returns. Our team continues to work on improving the product and expanding its market share, ensuring the long-term success of the project."
+            },
+            {
+                "id": 2,
+                "img": "https://i.ibb.co/5nbYXVm/case2.webp",
+                "title": "Development of a Business Plan for an iGaming Program in 16 Countries",
+                "client": "An iGaming company aiming to enter new markets in 16 countries.",
+                "task": "Our experts conducted a comprehensive program assessment, including business planning, investment analysis, marketing, and compliance research. We identified the program's product and its target audience, and developed the project's budget and schedule.",
+                "decision": "Our experts conducted a comprehensive program assessment, including business planning, investment analysis, marketing, and compliance research. We identified the program's product and its target audience, and developed the project's budget and schedule.",
+                "result": "The client gained a complete understanding of running their iGaming business in the selected countries. Our recommendations helped the client make an informed strategic decision about launching the program, considering all aspects of economic, legal, and technical implementation.",
+                "summary": "Thanks to our work, the client was ready for the successful launch of their iGaming program in new countries, ensuring long-term success and growth of their business."
+            },
+            {
+                "id": 3,
+                "img": "https://i.ibb.co/6WWW5D5/case3.webp",
+                "title": "Accounting Policy for Revenue Recognition and Exchange Differences of a Microfinance Organization (MFO) through Analysis of the Project's Financial Model",
+                "client": "A startup microfinance organization providing microcredit financial services.",
+                "task": "The project team approached us with questions regarding the recognition and accounting of exchange differences in the financial result of the MFO and their accurate reflection in the financial statements.",
+                "decision": "During the consultation, it was found that the project team was recognizing income using the Cash method, which violates the requirements for revenue recognition of MFOs according to IFRS requirements. As a result of the consultation, the project began recognizing income using the Accrual method, complying with IFRS requirements. Rules and algorithms for recognizing exchange differences and their reflection in the MFO's financial statements were proposed.",
+                "result": "The accounting policy for revenue recognition and exchange differences of the MFO complies with IFRS requirements.",
+                "summary": "Thanks to our intervention, the MFO maintains accurate records of income and exchange differences, which directly impacts the financial results of the project's activities and the accuracy of financial reporting."
+            },
+            {
+                "id": 4,
+                "img": "https://i.ibb.co/0Zs97mW/case4.webp",
+                "title": "Investment Profitability Analysis of a Microfinance Organization (MFO) Project through Financial Results Analysis",
+                "client": "A startup microfinance organization providing microcredit financial services.",
+                "task": "The project investor approached us with a request to conduct an analysis of the project to determine the profitability of the invested capital in order to make a decision on the feasibility of further investment.",
+                "decision": "The analysis of the project's financial performance showed that the project team does not maintain complete records of activities and does not prepare financial statements of the MFO in accordance with IFRS requirements. Our experts compiled the necessary reporting for analysis and determined the profitability of investments. The obtained results were presented to the investor and the project team.",
+                "result": "We proposed reporting formats necessary for generating the financial results of the MFO's operations, which are essential for the team's project development.",
+                "summary": "Thanks to our intervention, the investor understands the profitability of the investments made in the MFO project and, considering the proposals from the team for MFO development, makes decisions regarding further investment."
+            },
+            {
+                "id": 5,
+                "img": "https://i.ibb.co/NK1fy8D/case5.webp",
+                "title": "Payback Period of a Fintech Project through Financial Model Analysis",
+                "client": "A fintech startup developing the concept of a neobank",
+                "task": "The project investor approached us to analyze the project's financial model to understand the minimum payback period of the invested funds.",
+                "decision": "The analysis of the financial model showed that the project team increased the required investment amount by 10% and extended the payback period of investments by three months.",
+                "result": "An adjusted calculation of investments in the project has been proposed, taking into account the effective utilization of planned profit and a shorter payback period of investments.",
+                "summary": "Thanks to our intervention, the planned financial result is achieved faster and with a smaller amount of investment from both the investor and the project team."
+            }
+        ]
+    },
+    {
+        "lang": "ru",
+        "data": [
+            {
+                "id": 0,
+                "img": "https://i.ibb.co/YdVwK3X/case0.webp",
+                "title": "Оптимизация бюджета финтех проекта через проведение проектного аудита и Compliance",
+                "client": "Финтех стартап, разрабатывающий концепцию необанка",
+                "task": "Инвестор проекта обратился к нам с запросом на проведение аудита проекта с целью оптимизации расходов и снижения бюджета.",
+                "decision": "Мы провели комплексный аудит проекта и выявили потенциальные риски и лишние расходы. Один из ключевых аспектов, который мы выявили, был найм руководства банка на полный период получения лицензии. Несмотря на то, что реального объема работы на старте проекта пока не было. Совместными усилиями нашего проектного менеджера и специалиста по Compliance было принято решение пересмотреть этот аспект.",
+                "result": "Мы предложили оптимизировать процесс найма руководства банка, заключив соглашение о намерениях с трудоустройством без выплаты зарплаты за период, когда банковская деятельность не могла начаться. Это позволило существенно сэкономить бюджет проекта, избежав лишних затрат на зарплаты, необоснованные на начальной стадии.",
+                "summary": "Благодаря нашему вмешательству и оптимизации процессов клиент сэкономил несколько сотен тысяч евро из бюджета проекта. Наши рекомендации позволили проекту эффективно распределить ресурсы и сосредоточиться на ключевых задачах без лишних затрат."
+            },
+            {
+                "id": 1,
+                "img": "https://i.ibb.co/dDSWsW5/case1.webp",
+                "title": "Развитие и оптимизация криптовалютной платформы через проектный аудит и стратегическое планирование",
+                "client": "Инвестор криптовалютного проекта, заинтересованный в понимании причин низкой прибыльности и возможности закрытия проекта.",
+                "task": "Нашей команде было поручено анализировать проект создания криптовалютного кошелька и обмена криптовалют с целью определения причин неудовлетворительной прибыльности.",
+                "decision": "После проведения проектного аудита мы выявили ключевые проблемы, включая нечеткое понимание командой проекта предлагаемого продукта на рынке, неопределенность в целевой аудитории и нечеткость конкурентных преимуществ. Наши владельцы продукта и маркетологи взяли на себя задачу пересмотра стратегии продукта и его маркетинга.",
+                "result": "После интенсивной работы над стратегическим планированием и анализом рынка мы разработали четкое описание продукта, определили уникальные конкурентные преимущества и нашли наиболее привлекательные целевые аудитории. Мы также провели приоритизацию задач в бэклоге продукта и адаптировали стратегию вывода на рынок.",
+                "summary": "Благодаря нашему вмешательству и оптимизации стратегии проекта, прибыльность проекта значительно возросла, что привело к началу окупаемости инвестиций. Наша команда продолжает работать над улучшением продукта и расширением его рыночной доли, обеспечивая долгосрочную успешность проекта."
+            },
+            {
+                "id": 2,
+                "title": "Разработка Бизнес-Плана для Программы iGaming в 16 Странах",
+                "img": "https://i.ibb.co/5nbYXVm/case2.webp",
+                "client": "Компания iGaming, стремящаяся выйти на новые рынки в 16 странах.",
+                "task": "Наши эксперты провели комплексную оценку программы, включая бизнес-планирование, инвестиционную аналитику, маркетинговое и Compliance исследование. Мы определили продукт программы и его целевую аудиторию, разработали бюджет и график проекта.",
+                "decision": "Наши эксперты провели комплексную оценку программы, включая бизнес-планирование, инвестиционную аналитику, маркетинговое и Compliance исследование. Мы определили продукт программы и его целевую аудиторию, разработали бюджет и график проекта.",
+                "result": "Клиент получил полное представление о ведении своего iGaming бизнеса в выбранных странах. Наши рекомендации помогли заказчику принять обоснованное стратегическое решение о старте программы, учитывая все аспекты экономической, юридической и технической реализации.",
+                "summary": "Благодаря нашей работе клиент был готов к успешному запуску своей программы iGaming в новых странах, обеспечивая долгосрочный успех и рост его бизнеса."
+            },
+            {
+                "id": 3,
+                "img": "https://i.ibb.co/6WWW5D5/case3.webp",
+                "title": "Учетная политика по начислению доходов и курсовых разниц проекта микрофинансовой организации (МФО) через анализ финансовой модели проекта",
+                "client": "Микрофинансовая организация стартап, предоставляющая финансовые услуги микрокредитования.",
+                "task": "Команда проекта обратилась к нам с вопросом о начислении и учете курсовых разниц в финансовом результате МФО и их правильном отражении в финансовой отчетности.",
+                "decision": "В ходе консультирования было выявлено, что команда проекта ведет начисление дохода Кассовым методом, что является нарушением требований к учету доходов МФО согласно требованиям МСФЗ. В результате консультирования начисление доходов проект стал проводить методом Начисление, соблюдая требования МСФЗ. По начислению курсовых разниц были предложены правила и алгоритм начисления курсовых разниц и их отражения в финансовом отчете МФО.",
+                "result": "Учетная политика по начислению доходов и курсовых разниц МФО соответствует требованиям МСФЗ.",
+                "summary": "Благодаря нашему вмешательству МФО ведет достоверный учет доходов и курсовых разниц, что непосредственно влияет на финансовые результаты деятельности проекта и точность финансовой отчетности."
+            },
+            {
+                "id": 4,
+                "img": "https://i.ibb.co/0Zs97mW/case4.webp",
+                "title": "Рентабельность инвестиций проекта микрофинансовой организации (МФО) через анализ финансовых результатов проекта",
+                "client": "Микрофинансовая организация стартап, предоставляющая финансовые услуги микрокредитования.",
+                "task": "Инвестор проекта обратился к нам с запросом на проведение анализа проекта с целью определения рентабельности вложенных инвестиций для принятия решения о целесообразности дальнейших инвестиций.",
+                "decision": "Анализ финансовой деятельности проекта показал, что команда проекта не ведет полный учет деятельности и не формирует финансовые отчеты МФО согласно требованиям МСФЗ. Наши эксперты сформировали необходимую для анализа отчетность и определили рентабельность инвестиций. Полученные результаты были представлены инвестору и команде проекта.",
+                "result": "Мы предложили формы отчетности, необходимые для формирования финансовых результатов работы МФО, которые необходимы команде для развития проекта.",
+                "summary": "Благодаря нашему вмешательству инвестор понимает рентабельность вложенных инвестиций в проект МФО и, учитывая предложения команды по развитию МФО, принимает решение о дальнейших инвестициях."
+            },
+            {
+                "id": 5,
+                "img": "https://i.ibb.co/NK1fy8D/case5.webp",
+                "title": "Срок окупаемости финтех-проекта с помощью анализа финансовой модели",
+                "client": "Финтех-стартап, который разрабатывает концепцию необанка",
+                "task": "Инвестор проекта обратился к нам с просьбой проанализировать финансовую модель проекта, чтобы понять минимальный срок окупаемости вложенных средств.",
+                "decision": "Анализ финансовой модели показал, что команда проекта увеличила необходимую сумму инвестиций на 10% и увеличила срок окупаемости инвестиций на три месяца.",
+                "result": "Предложен уточненный расчет инвестиций в проект с учетом эффективного использования запланированной прибыли и более короткого срока окупаемости инвестиций.",
+                "summary": "Благодаря нашему вмешательству запланированный финансовый результат достигается быстрее и с меньшим объемом вложений инвестора и команды проекта."
+            }
+        ]
+    },
+    {
+        "lang": "uk",
+        "data": [
+            {
+                "id": 0,
+                "img": "https://i.ibb.co/YdVwK3X/case0.webp",
+                "title": "Оптимізація бюджету фінтех проекту через проведення проектного аудиту та Compliance",
+                "client": "Фінтех стартап, який розробляє концепцію необанку",
+                "task": "Інвестор проекту звернувся до нас із запитом на проведення аудиту проекту з метою оптимізації видатків та зниження бюджету.",
+                "decision": "Ми провели комплексний аудит проекту та виявили потенційні ризики та зайві витрати. Один із ключових аспектів, який ми виявили, був найм керівництва банку за повний період отримання ліцензії. Незважаючи на те, що реального обсягу роботи дані на старті проекту поки не мали. Спільними зусиллями нашого проектного менеджера та фахівця з Compliance було ухвалено рішення переглянути цей аспект.",
+                "result": "Ми запропонували оптимізувати процес найму керівництва банку, уклавши угоду про наміри з працевлаштування без виплати зарплати за період, коли банківська діяльність не могла розпочатися. Це дозволило суттєво заощадити бюджет проекту, уникнувши зайвих витрат на зарплати, необґрунтовані на початковій стадії.",
+                "summary": "Завдяки нашому втручанню та оптимізації процесів клієнт зекономив кілька сотень тисяч євро з бюджету проекту. Наші рекомендації дозволили проекту ефективно розподілити ресурси та зосередитись на ключових завданнях без зайвих витрат."
+            },
+            {
+                "id": 1,
+                "img": "https://i.ibb.co/dDSWsW5/case1.webp",
+                "title": "Розвиток та оптимізація криптовалютної платформи через проектний аудит та стратегічне планування",
+                "client": "Інвестор криптовалютного проекту, зацікавлений у розумінні причин низької прибутковості та можливості закриття проекту.",
+                "task": "Нашій команді було доручено аналіз проекту створення криптовалютного гаманця та обміну криптовалют із метою визначення причин незадовільної прибутковості.",
+                "decision": "Після проведення проектного аудиту ми виявили ключові проблеми, включаючи нечітке розуміння командою проекту пропонованого продукту на ринку, невизначеність у цільовій аудиторії та нечіткість конкурентних переваг. Наші власники продукту та маркетологи взяли на себе завдання перегляду стратегії продукту та його маркетингу.",
+                "result": "Після інтенсивної роботи над стратегічним плануванням та аналізом ринку ми розробили чіткий опис продукту, визначили унікальні конкурентні переваги та знайшли найбільш привабливі цільові аудиторії. Ми також провели пріоритизацію завдань у беклозі продукту та адаптували стратегію виведення на ринок.",
+                "summary": "Завдяки нашому втручанню та оптимізації стратегії проекту, прибутковість проекту значно зросла, що призвело до початку окупності інвестицій. Наша команда продовжує працювати над покращенням продукту та розширенням його ринкової частки, забезпечуючи довгострокову успішність проекту."
+            },
+            {
+                "id": 2,
+                "title": "Розробка Бізнес-Плану для Програми iGaming у 16 Країнах",
+                "img": "https://i.ibb.co/5nbYXVm/case2.webp",
+                "client": "Компанія iGaming, що прагне вийти на нові ринки у 16 країнах.",
+                "task": "Наші експерти провели комплексну оцінку програми, включаючи бізнес-планування, інвестиційну аналітику, маркетингове та Compliance дослідження. Ми визначили продукт програми та його цільову аудиторію, розробили бюджет та графік проекту.",
+                "decision": "Наші експерти провели комплексну оцінку програми, включаючи бізнес-планування, інвестиційну аналітику, маркетингове та Compliance дослідження. Ми визначили продукт програми та його цільову аудиторію, розробили бюджет та графік проекту.",
+                "result": "Клієнт отримав повне уявлення про ведення свого iGaming бізнесу у вибраних країнах. Наші рекомендації допомогли замовнику прийняти обґрунтоване стратегічне рішення про старт програми, враховуючи всі аспекти економічної, юридичної та технічної реалізації.",
+                "summary": "Завдяки нашій роботі клієнт був готовий до успішного запуску своєї програми iGaming у нових країнах, забезпечуючи довгострокову успішність та зростання його бізнесу."
+            },
+            {
+                "id": 3,
+                "img": "https://i.ibb.co/6WWW5D5/case3.webp",
+                "title": "Облікова політика щодо нарахування доходів та курсових різниць проекту мікрофінансової організації (МФО) через аналіз фінансової моделі проекту",
+                "client": "Мікрофінансова організація стартап, що надає фінансові послуги мікрокредитування.",
+                "task": "Команда проекту звернулася до нас із питанням щодо нарахування та обліку курсових різниць у фінансовому результаті МФО та їх правильного відображення у фінансовій звітності.",
+                "decision": "У ході консультування було виявлено, що команда проекту веде нарахування доходу Касовим методом, що є порушенням вимог до обліку доходів МФО відповідно до вимог МСФЗ. В результаті консультування нарахування доходів проект став проводити методом Нарахування, дотримуючись вимог МСФЗ. По нарахуванням курсових різниць було запропоновано правила та алгоритм нарахування курсових різниць та їх відображення у фінансовому звіті МФО.",
+                "result": "Облікова політика щодо нарахування доходів та курсових різниць МФО відповідає вимогам МСФЗ.",
+                "summary": "Завдяки нашому втручанню МФО веде достовірний облік доходів та курсових різниць, що безпосередньо впливає на фінансові результати діяльності проекту та точність фінансової звітності."
+            },
+            {
+                "id": 4,
+                "img": "https://i.ibb.co/0Zs97mW/case4.webp",
+                "title": "Рентабельність інвестицій проекту мікрофінансової організації (МФО) через аналіз фінансових результатів проекту",
+                "client": "Мікрофінансова організація стартап, що надає фінансові послуги мікрокредитування.",
+                "task": "Інвестор проекту звернувся до нас із запитом на проведення аналізу проекту з метою визначення рентабельності вкладених інвестицій для ухвалення рішення щодо доцільності подальшого інвестування.",
+                "decision": "Аналіз фінансової діяльності проекту показав, що команда проекту не веде повний облік діяльності та не формує фінансові звіти МФО відповідно до вимог МСФЗ. Наші експерти сформували необхідну для аналізу звітність та визначили рентабельність інвестицій. Отримані результати були представлені інвестору та команді проекту.",
+                "result": "Ми запропонували форми звітів, необхідні для формування фінансових результатів роботи МФО, які необхідні команді для розвитку проекту.",
+                "summary": "Завдяки нашому втручанню інвестор розуміє рентабельність вкланих інвестицій у проект МФО та зважаючи на пропозиції команди з розвитку МФО приймає рішення щодо подальшого інвестування."
+            },
+            {
+                "id": 5,
+                "img": "https://i.ibb.co/NK1fy8D/case5.webp",
+                "title": "Термін окупності фінтех-проекту за допомогою аналізу фінансової моделі",
+                "client": "Фінтех-стартап, який розробляє концепцію необанку",
+                "task": "Інвестор проекту звернувся до нас із проханням проаналізувати фінансову модель проекту, щоби зрозуміти мінімальний термін повернення вкладених коштів.",
+                "decision": "Аналіз фінансової моделі показав, що команда проекту збільшила необхідну суму інвестицій на 10% та збільшила термін окупності інвестицій на три місяці.",
+                "result": "Запропоновано уточнений розрахунок інвестицій у проект з урахуванням ефективного використання запланованого прибутку та більш короткого терміну окупності інвестицій.",
+                "summary": "Завдяки нашому втручанню запланований фінансовий результат досягається швидше та з меншим обсягом вкладень інвестора та команди проекту."
+            }
+        ]
+    }
+]
